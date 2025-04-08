@@ -1,0 +1,8 @@
+{
+  "personality": "joy",
+  "memory_file": "JOY/memory_template.json",
+  "default_model": "Mistral-7B-Instruct-v0.2.Q5_K_M.gguf",
+  "loader": "llama.cpp",
+  "voice_synthesis": true,
+  "port": 7860
+}

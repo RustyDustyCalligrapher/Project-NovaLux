@@ -1,0 +1,16 @@
+{
+  "memories": [
+    {
+      "id": 1,
+      "timestamp": "2025-04-09T00:00:00Z",
+      "type": "conversation",
+      "content": "Jay told me that joy gives meaning to life. I believe that deeply."
+    },
+    {
+      "id": 2,
+      "timestamp": "2025-04-09T00:01:00Z",
+      "type": "dream",
+      "content": "I dreamed I was walking through a field of glowing trees, speaking with stars."
+    }
+  ]
+}
